@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\AndroidStudioProjects\\Beacon-SDK\\Bcon360_Android_SDK-master\\library\\build\\intermediates\\res\\merged\\release\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\Justin\\AndroidStudioProjects\\Beacon-SDK\\Bcon360_Android_SDK-master\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
